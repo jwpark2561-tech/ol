@@ -1,18 +1,20 @@
 n=int(input())
-l=[]
-result = True
+
+
 for _ in range(n):
+    l=[]
+    result = True
     s=input()
-    for i in s:
-        if i=='(':
-            l.append(i)
-            print(l)
-        elif i==')':
+    for i in range(len(s)):
+        if s[i]=='(':
+            l.append(s[i])
+            #print(l)
+        elif s[i]==')':
             if len(l)==0:
                 result = False
                 break
             l.pop()
-            print(l)
+            #print(l)
     if result == False:
         print('NO')
     else:
