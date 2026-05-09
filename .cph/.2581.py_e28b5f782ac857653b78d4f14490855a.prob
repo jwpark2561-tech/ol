@@ -1,0 +1,1 @@
+{"name":"Local: 2581","url":"/workspaces/ol/2581.py","tests":[{"id":1778294415627,"input":"4\n120 110 140 150\n485","output":"127"},{"id":1778294621987,"input":"5\n70 80 30 40 100\n450","output":"100\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/ol/2581.py","group":"local","local":true}
