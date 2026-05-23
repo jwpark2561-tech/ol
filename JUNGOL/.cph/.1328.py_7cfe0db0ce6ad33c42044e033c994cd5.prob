@@ -1,0 +1,1 @@
+{"name":"Local: 1328","url":"/workspaces/ol/JUNGOL/1328.py","tests":[{"id":1779505405209,"input":"6\n3\n2\n6\n1\n1\n2","output":"3\n3\n0\n6\n6\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/ol/JUNGOL/1328.py","group":"local","local":true}

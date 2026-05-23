@@ -1,0 +1,10 @@
+st=[]
+st.append(5)
+st.append(8)
+st.append(3)
+st.pop()
+st.append(12)
+st.pop()
+st.pop()
+st.append(7)
+print(st)
