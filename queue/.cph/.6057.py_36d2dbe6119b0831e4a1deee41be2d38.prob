@@ -1,0 +1,1 @@
+{"name":"Local: 6057","url":"/workspaces/ol/queue/6057.py","tests":[{"id":1779520280115,"input":"3 9\n1 1\n0 3 31\n0 1 65\n0 1 51\n1 3\n0 1 59\n1 1\n1 3\n0 1 39","output":"96"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/ol/queue/6057.py","group":"local","local":true}
