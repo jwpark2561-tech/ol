@@ -1,0 +1,1 @@
+{"name":"Local: 2298","url":"/workspaces/ol/dfs,bfs/2298.py","tests":[{"id":1783746580735,"input":"5\n6 8 2 6 2\n3 2 3 4 6\n6 7 3 3 2\n7 2 5 3 6\n8 9 5 2 7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/ol/dfs,bfs/2298.py","group":"local","local":true}
